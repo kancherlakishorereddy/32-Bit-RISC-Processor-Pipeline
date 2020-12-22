@@ -1,4 +1,4 @@
-# 32-Bit-RISC-Processor-Pipeline
+# 32-Bit RISC Processor Pipeline
 
 This was my Academic Project for Computer Archtecture course during 5th semester at IITBBS. <br> Please read this completely to know how to write the machine code and test the ciruit by yourself.
 
